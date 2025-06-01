@@ -12,7 +12,7 @@
 
 <h3 align="center"><i>Sometimes the best things in life are free—and they're open source.</i></h3>
 
-## 📖 What I Believe In
+# 📖 What I Believe In
 
 - **Digital Rights**: I'm all about advocating for freedom and privacy online. Everyone should have control over their own data.
 - **Collaboration**: I love sharing & hearing ideas. That's why I'm [here](https://github.com), right?
