@@ -1,4 +1,4 @@
-# System.out.print("Hey all👋 I'm Starsoon, a Chilean Dev 🔧");
+# console.log("Hey all👋 I'm Starsoon, a Chilean Dev 🔧");
 
 <img align="right" height="150" src="https://i.ibb.co/Y7xLQM9Z/Sackboy-Mewing.gif"/>
 
