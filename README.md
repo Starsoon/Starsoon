@@ -1,5 +1,4 @@
-<img src="https://github.com/user-attachments/assets/18eaef93-8ace-47bf-9607-839eacaba624" style="width: 100%;"/>
-
+<img src="https://github.com/user-attachments/assets/fc3c4cbf-3455-474a-8b36-c4b6bff82063" style="width: 100%;"/>
 
 # console.log("Hey all👋 I'm Starsoon, a Chilean Dev 🔧");
 
