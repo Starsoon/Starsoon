@@ -2,8 +2,6 @@
 
 # console.log("Hey all 👋 I'm Starsoon, a Chilean Dev ⚙️");
 
-<img align="right" height="150" src="https://i.ibb.co/Y7xLQM9Z/Sackboy-Mewing.gif"/>
-
 ### 👀 display.Info();
 
 - 🤓 Self-taught Developer since <i><b>2018</b></i>
