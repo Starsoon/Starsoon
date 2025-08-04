@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/fc3c4cbf-3455-474a-8b36-c4b6bff82063" style="width: 100%;"/>
+<img src="https://github.com/user-attachments/assets/c93004ee-373b-4cfc-965a-92e2fc2546bc" style="width: 100%;"/>
 
 # Hey all 👋 I'm Starsoon, a Chilean Dev ⚙️
 
@@ -14,4 +14,4 @@
 
 #
 
-<img src="https://github.com/user-attachments/assets/40584f13-68c7-41ff-8706-4d4b0c6a8434" style="width: 100%;"/>
+<img src="https://github.com/user-attachments/assets/73871f28-591a-4b52-b12b-640d329bb255" style="width: 100%;"/>
