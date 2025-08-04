@@ -2,7 +2,10 @@
 
 # Hey all 👋 I'm Starsoon, a Chilean Dev ⚙️
 
+<img align=right src="https://github.com/user-attachments/assets/2a9ef4a6-e01e-4b8f-b406-8dfb14ae2930" style="width: 75%;"/>
+
 ### Other things about me 👀
+
 
 - 📸 Photographer
 - 🥁 Drummer
